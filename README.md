@@ -30,5 +30,5 @@ Open for Contributions
 
 # You can visit working website here
  hosted this web app with GitHub Pages </br>
- https://meet30.github.io/Weather-App/
+ 
 
